@@ -1,0 +1,7 @@
+{
+  "name": "finish",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
